@@ -1,5 +1,8 @@
 # LLM Wiki Lab
 
+<details open>
+<summary><b>中文</b>（默认）｜ 切换英文 →</summary>
+
 一个可持续进化的个人知识系统。用 Obsidian 管理：`raw/` 存放原始资料，`wiki/` 存放提炼后的知识页，`AGENTS.md` 定义知识库的维护规则。
 
 ## 目录结构
@@ -36,8 +39,7 @@ llm-wiki-lab/
 
 1. 用 Obsidian 打开本仓库，即是一个 Vault。
 2. 查询时**优先阅读 `wiki/` 中的知识页**，需要细节时再回溯 `raw/` 中的原始资料。
-3. 新资料进入 `raw/` 后，按 `AGENTS.md` 的 ingest 流程整理：
-   生成来源页 → 提炼关键观点 → 更新相关 wiki 页面 → 增加交叉链接 → 没有对应页面时新建页面。
+3. 新资料进入 `raw/` 后，按 `AGENTS.md` 的 ingest 流程整理：生成来源页 → 提炼关键观点 → 更新相关 wiki 页面 → 增加交叉链接 → 没有对应页面时新建页面。
 
 ## 内容说明
 
@@ -48,3 +50,58 @@ llm-wiki-lab/
 
 - 详细规则见 [AGENTS.md](AGENTS.md)。
 - 修改后用 git 提交并推送到 GitHub 即可。
+
+</details>
+
+<details>
+<summary><b>English</b> ｜ 中文 ↑</summary>
+
+An ever-evolving personal knowledge system. Managed with Obsidian: `raw/` holds source material, `wiki/` holds distilled knowledge notes, and `AGENTS.md` defines how the knowledge base is maintained.
+
+## Layout
+
+```
+llm-wiki-lab/
+├── raw/       # Source material (books, lecture slides, notes)
+├── wiki/      # Distilled knowledge notes (Obsidian wikilinks)
+├── AGENTS.md  # Workflow rules: ingest principles & query principles
+└── README.md
+```
+
+### raw/ — Source material
+
+| Directory | Contents | Format |
+| --- | --- | --- |
+| `raw/CSAPP/` | Chinese reading notes for Computer Systems: A Programmer's Perspective (12 chapters) | Markdown, named 01–12 per chapter |
+| `raw/CS61B/` | Full text of the official UC Berkeley CS61B textbook, Spring 2026 | 209 Markdown pages |
+| `raw/Algorithms4ed/` | Official English lecture slides for Algorithms, 4th ed. (Sedgewick & Wayne) | 24 PDFs |
+
+Each subdirectory has its own `README.md` with source, download date, and file layout.
+
+### wiki/ — Knowledge notes
+
+Organized by topic, with pages cross-linked using Obsidian wikilinks:
+
+- **Data Structures**: linked lists/dynamic arrays, trees & balanced trees, tries, heaps, hash tables, disjoint sets, graphs & traversals
+- **Algorithms**: asymptotic analysis, sorting, shortest paths, minimum spanning trees, complexity & P vs NP
+- **Computer Architecture**: CSAPP core ideas, data representation, stack frames, cache locality
+- **Operating Systems**: virtual memory, linking & loading
+- **Programming Languages**, **AI Systems**: reserved categories
+
+## Usage
+
+1. Open this repository as a vault in Obsidian.
+2. When looking something up, **read `wiki/` first**; fall back to `raw/` when you need details.
+3. When new material enters `raw/`, follow the ingest workflow in `AGENTS.md`: create a source page → distill key points → update related wiki pages → add cross-links → create new pages if none exist.
+
+## Notes
+
+- All source material comes from public channels (official book sites, open-source note repos); see each `raw/` subdirectory README for attribution and licensing.
+- Wiki pages are distilled study notes, not verbatim book text.
+
+## Maintenance
+
+- Detailed rules live in [AGENTS.md](AGENTS.md).
+- Commit changes and push to GitHub after editing.
+
+</details>
