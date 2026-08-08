@@ -1,0 +1,225 @@
+{
+  "main": {
+    "id": "1ecdb834812a71e9",
+    "type": "split",
+    "children": [
+      {
+        "id": "7935c97b38755d63",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "73deb064aa42feec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "raw/CSAPP/03_assembly.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "03_assembly"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0e1e353a4624a5e1",
+    "type": "split",
+    "children": [
+      {
+        "id": "9d006ba9965b33f6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9de316afaea4e5de",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "23913c6c13bacf7e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "48a41f09426253e5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "62cb7bc056ba566e",
+    "type": "split",
+    "children": [
+      {
+        "id": "53fa601e99dafffb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b0eea997d8acbe59",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "raw/CSAPP/03_assembly.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 03_assembly"
+            }
+          },
+          {
+            "id": "917bed255324d35c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "raw/CSAPP/03_assembly.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 03_assembly"
+            }
+          },
+          {
+            "id": "8260d78b6e38681e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e042b6a84e6a44eb",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "80d55442e7d41e17",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "raw/CSAPP/03_assembly.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 03_assembly"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "73deb064aa42feec",
+  "lastOpenFiles": [
+    "wiki/Algorithms/Complexity and P vs NP.md",
+    "wiki/Algorithms/Minimum Spanning Trees.md",
+    "wiki/Algorithms/Shortest Paths.md",
+    "wiki/Algorithms/Sorting.md",
+    "wiki/Algorithms/Asymptotic Analysis.md",
+    "wiki/Algorithms/Algorithms 4ed 教材.md",
+    "wiki/Data Structures/Graphs and Traversals.md",
+    "wiki/Data Structures/Disjoint Sets (Union-Find).md",
+    "wiki/Data Structures/Hash Tables.md",
+    "wiki/Data Structures/Heaps and Priority Queues.md",
+    "wiki/Data Structures/Tries.md",
+    "wiki/Data Structures/Trees and Balanced Search Trees.md",
+    "wiki/Data Structures/Linked Lists and Dynamic Arrays.md",
+    "wiki/Data Structures/CS61B 教材.md",
+    "raw/Algorithms4ed/README.md",
+    "raw/CS61B/9.-inheritance-ii-extends-casting-higher-order-functions/9.3-casting.md",
+    "raw/Algorithms4ed/lectures/99LinearProgramming-2x2.pdf",
+    "raw/Algorithms4ed/lectures/99GeometricSearch-2x2.pdf",
+    "raw/Algorithms4ed/lectures/64MaxFlow-2x2.pdf",
+    "raw/Algorithms4ed/lectures/55DataCompression-2x2.pdf",
+    "raw/Algorithms4ed/lectures/53SubstringSearch-2x2.pdf",
+    "raw/Algorithms4ed/lectures/52Tries-2x2.pdf",
+    "raw/Algorithms4ed/lectures/51StringSorts-2x2.pdf",
+    "raw/Algorithms4ed/lectures/44ShortestPaths-2x2.pdf",
+    "raw/Algorithms4ed/lectures/43MinimumSpanningTrees-2x2.pdf",
+    "raw/Algorithms4ed/lectures/42DirectedGraphs-2x2.pdf",
+    "raw/CS61B/9.-inheritance-ii-extends-casting-higher-order-functions/9.2-encapsulation.md",
+    "raw/CS61B/8.-inheritance-i-interface-and-implementation-inheritance/8.4-implementation-inheritance-default.md",
+    "wiki/Computer Architecture/Stack Frame.md",
+    "raw/CSAPP/01_intro.md",
+    "raw/CS61B/17.-red-black-trees/17.1-rotating-trees.md",
+    "raw/CS61B/17.-red-black-trees/17.2-creating-llrb-trees.md",
+    "raw/CS61B/16.-b-trees/16.5-exercises.md",
+    "raw/CS61B/8.-inheritance-i-interface-and-implementation-inheritance/8.3-overriding-interface-inheritance.md",
+    "raw/CSAPP/05_optimization.md",
+    "raw/CSAPP/03_assembly.md"
+  ]
+}
