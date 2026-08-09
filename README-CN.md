@@ -21,6 +21,7 @@ llm-wiki-lab/
 | `raw/CSAPP/` | 《深入理解计算机系统》（CSAPP）12 章中文读书笔记 | Markdown，按章节 01–12 命名 |
 | `raw/CS61B/` | UC Berkeley CS61B 官方教材 Spring 2026 英文全文 | 209 页 Markdown |
 | `raw/Algorithms4ed/` | 《算法（第 4 版）》（Sedgewick & Wayne）官方英文讲义 | 24 个 PDF |
+| `raw/zhihu-favorites/` | 知乎收藏快照（2 个收藏夹、140 条去重文章，含摘要与链接） | Markdown |
 
 各目录内的 `README.md` 记录来源、下载日期与文件结构。
 
@@ -32,7 +33,12 @@ llm-wiki-lab/
 - **Algorithms**：渐近分析、排序、最短路、最小生成树、复杂度与 P vs NP
 - **Computer Architecture**：CSAPP 核心思想、数据表示、栈帧、缓存局部性
 - **Operating Systems**：虚拟存储器、链接与加载
-- **Programming Languages**、**AI Systems**：预留分类
+- **CS Learning**：自学路线与公开课、学习方法与编程实践
+- **AI Industry**：AI 时代的编程学习与就业、大模型竞争格局
+- **People**：梁文锋与 DeepSeek、周信静、科学家与行业人物
+- **Education**：教育体系与内卷、成长心态
+- **Culture**：摇滚与电影、随笔与社会观察
+- **Programming Languages**：预留分类
 
 ## 使用方式
 

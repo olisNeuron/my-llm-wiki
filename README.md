@@ -21,6 +21,7 @@ llm-wiki-lab/
 | `raw/CSAPP/` | Chinese reading notes for Computer Systems: A Programmer's Perspective (12 chapters) | Markdown, named 01–12 per chapter |
 | `raw/CS61B/` | Full text of the official UC Berkeley CS61B textbook, Spring 2026 | 209 Markdown pages |
 | `raw/Algorithms4ed/` | Official English lecture slides for Algorithms, 4th ed. (Sedgewick & Wayne) | 24 PDFs |
+| `raw/zhihu-favorites/` | Zhihu favorites snapshot (2 collections, 140 unique items with summaries & links) | Markdown |
 
 Each subdirectory has its own `README.md` with source, download date, and file layout.
 
@@ -32,7 +33,12 @@ Organized by topic, with pages cross-linked using Obsidian wikilinks:
 - **Algorithms**: asymptotic analysis, sorting, shortest paths, minimum spanning trees, complexity & P vs NP
 - **Computer Architecture**: CSAPP core ideas, data representation, stack frames, cache locality
 - **Operating Systems**: virtual memory, linking & loading
-- **Programming Languages**, **AI Systems**: reserved categories
+- **CS Learning**: self-study paths & open courses, study methods & programming practice
+- **AI Industry**: coding/learning & careers in the AI era, LLM competitive landscape
+- **People**: Liang Wenfeng & DeepSeek, Zhou Xinjing, scientists & industry figures
+- **Education**: China's education system & 内卷, growth mindset
+- **Culture**: rock & film essays, social observations
+- **Programming Languages**: reserved category
 
 ## Usage
 
