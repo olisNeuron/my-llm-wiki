@@ -36,7 +36,7 @@ llm-wiki-lab/
 - **CS Learning**：自学路线与公开课、学习方法与编程实践
 - **AI Industry**：AI 时代的编程学习与就业、大模型竞争格局
 - **People**：梁文锋与 DeepSeek、周信静、科学家与行业人物
-- **Education**：教育体系与内卷、成长心态
+- **Education**：教育体系与内卷、成长心态、优绩主义与第三条路
 - **Culture**：摇滚与电影、随笔与社会观察
 - **Programming Languages**：预留分类
 

@@ -36,7 +36,7 @@ Organized by topic, with pages cross-linked using Obsidian wikilinks:
 - **CS Learning**: self-study paths & open courses, study methods & programming practice
 - **AI Industry**: coding/learning & careers in the AI era, LLM competitive landscape
 - **People**: Liang Wenfeng & DeepSeek, Zhou Xinjing, scientists & industry figures
-- **Education**: China's education system & 内卷, growth mindset
+- **Education**: China's education system & 内卷, growth mindset, meritocracy & the third path
 - **Culture**: rock & film essays, social observations
 - **Programming Languages**: reserved category
 

@@ -1,1 +1,4 @@
 .DS_Store
+
+# 小红书收藏/点赞数据（个人私密内容，不入库）
+/raw/xhs-favorites/
