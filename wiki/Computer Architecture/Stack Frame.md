@@ -40,6 +40,7 @@ C 对数组**不做边界检查**，而局部变量和返回地址同在栈上�
 ## 关联
 
 - [[Data Representation]]：汇编中的数据类型与格式
+- [[Processor Architecture]]：ISA 是机器级表示与处理器实现之间的抽象
 - [[Virtual Memory]]：运行时栈是虚拟地址空间的一部分
 - [[CSAPP核心思想]]：全书主线与来源
 

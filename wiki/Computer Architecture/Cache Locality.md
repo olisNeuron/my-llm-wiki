@@ -46,6 +46,7 @@ tags: [csapp, computer-architecture, memory-hierarchy, cache]
 ## 关联
 
 - [[Virtual Memory]]：虚拟内存把 DRAM 当作磁盘地址空间的缓存，思路同源
+- [[Performance Optimization]]：缓存友好代码是性能优化的重要一环
 - [[CSAPP核心思想]]：存储层次与缓存是全书主线
 
 ## 来源

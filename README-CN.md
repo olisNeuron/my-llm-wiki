@@ -31,9 +31,9 @@ llm-wiki-lab/
 
 - **Data Structures**：链表/动态数组、树与平衡树、Trie、堆、哈希表、并查集、图与遍历
 - **Algorithms**：渐近分析、排序、最短路、最小生成树、复杂度与 P vs NP
-- **Computer Architecture**：CSAPP 核心思想、数据表示、栈帧、缓存局部性
-- **Operating Systems**：虚拟存储器、链接与加载
-- **CS Learning**：自学路线与公开课、学习方法与编程实践
+- **Computer Architecture**：CSAPP 核心思想、数据表示、栈帧、处理器体系结构、性能优化、缓存局部性
+- **Operating Systems**：虚拟存储器、链接与加载、异常控制流、系统级 I/O、网络编程、并发编程
+- **CS Learning**：自学路线与公开课、学习方法与编程实践、软件工程与复杂度管理
 - **AI Industry**：AI 时代的编程学习与就业、大模型竞争格局
 - **People**：梁文锋与 DeepSeek、周信静、科学家与行业人物
 - **Education**：教育体系与内卷、成长心态、优绩主义与第三条路、给天命人的劝退信
