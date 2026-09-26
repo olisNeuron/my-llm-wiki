@@ -24,7 +24,7 @@ tags: [source, cs61b, data-structures]
 | 22 | 最小生成树（Prim/Kruskal） | [[Minimum Spanning Trees]] |
 | 24-25 | 哈希表 | [[Hash Tables]] |
 | 26 | Trie | [[Tries]] |
-| 27-28, 35-36 | 软件工程 | （待整理） |
+| 27-28, 35-36 | 软件工程 | [[软件工程与复杂度管理]] |
 | 29-34 | 排序（选择/插入/归并/堆/快排/基数）与下界 | [[Sorting]] |
 | 37-38 | 压缩、复杂度类、P vs NP | [[Complexity and P vs NP]] |
 

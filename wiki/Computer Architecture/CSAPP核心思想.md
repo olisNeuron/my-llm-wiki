@@ -26,15 +26,15 @@ tags: [csapp, computer-architecture, source]
 | 1 | 计算机系统漫游 | [[CSAPP核心思想]] | [[raw/CSAPP/01_intro\|第 1 章]] |
 | 2 | 信息的表示和处理 | [[Data Representation]] | [[raw/CSAPP/02_bits\|第 2 章]] |
 | 3 | 程序的机器级表示 | [[Stack Frame]] | [[raw/CSAPP/03_assembly\|第 3 章]] |
-| 4 | 处理器体系结构 | （待整理） | [[raw/CSAPP/04_processor\|第 4 章]] |
-| 5 | 优化程序性能 | （待整理） | [[raw/CSAPP/05_optimization\|第 5 章]] |
+| 4 | 处理器体系结构 | [[Processor Architecture]] | [[raw/CSAPP/04_processor\|第 4 章]] |
+| 5 | 优化程序性能 | [[Performance Optimization]] | [[raw/CSAPP/05_optimization\|第 5 章]] |
 | 6 | 存储器层次结构 | [[Cache Locality]] | [[raw/CSAPP/06_memory\|第 6 章]] |
 | 7 | 链接 | [[Linking and Loading]] | [[raw/CSAPP/07_linking\|第 7 章]] |
-| 8 | 异常控制流 | （待整理） | [[raw/CSAPP/08_ecf\|第 8 章]] |
+| 8 | 异常控制流 | [[Exceptional Control Flow]] | [[raw/CSAPP/08_ecf\|第 8 章]] |
 | 9 | 虚拟存储器 | [[Virtual Memory]] | [[raw/CSAPP/09_virtual_memory\|第 9 章]] |
-| 10 | 系统级 I/O | （待整理） | [[raw/CSAPP/10_io\|第 10 章]] |
-| 11 | 网络编程 | （待整理） | [[raw/CSAPP/11_network\|第 11 章]] |
-| 12 | 并发编程 | （待整理） | [[raw/CSAPP/12_concurrency\|第 12 章]] |
+| 10 | 系统级 I/O | [[System I-O]] | [[raw/CSAPP/10_io\|第 10 章]] |
+| 11 | 网络编程 | [[Network Programming]] | [[raw/CSAPP/11_network\|第 11 章]] |
+| 12 | 并发编程 | [[Concurrency]] | [[raw/CSAPP/12_concurrency\|第 12 章]] |
 
 ## 来源
 

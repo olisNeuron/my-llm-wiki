@@ -42,6 +42,8 @@ tags: [csapp, operating-systems, virtual-memory]
 - [[Linking and Loading]]：可执行文件由加载器映射进虚拟内存
 - [[Cache Locality]]：DRAM 缓存思想与 SRAM 缓存同源
 - [[Stack Frame]]：栈是虚拟地址空间的一部分
+- [[Exceptional Control Flow]]：缺页异常是 fault 的典型例子
+- [[System I-O]]：mmap 把文件映射进虚拟地址空间
 - [[CSAPP核心思想]]：全书主线与来源
 
 ## 来源

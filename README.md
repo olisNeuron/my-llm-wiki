@@ -32,9 +32,9 @@ Organized by topic, with pages cross-linked using Obsidian wikilinks:
 
 - **Data Structures**: linked lists/dynamic arrays, trees & balanced trees, tries, heaps, hash tables, disjoint sets, graphs & traversals
 - **Algorithms**: asymptotic analysis, sorting, shortest paths, minimum spanning trees, complexity & P vs NP, MIT 6.006 course & materials
-- **Computer Architecture**: CSAPP core ideas, data representation, stack frames, cache locality
-- **Operating Systems**: virtual memory, linking & loading
-- **CS Learning**: self-study paths & open courses, study methods & programming practice
+- **Computer Architecture**: CSAPP core ideas, data representation, stack frames, processor architecture, performance optimization, cache locality
+- **Operating Systems**: virtual memory, linking & loading, exceptional control flow, system I/O, network programming, concurrency
+- **CS Learning**: self-study paths & open courses, study methods & programming practice, software engineering & complexity management
 - **AI Industry**: coding/learning & careers in the AI era, LLM competitive landscape
 - **People**: Liang Wenfeng & DeepSeek, Zhou Xinjing, scientists & industry figures
 - **Education**: China's education system & 内卷, growth mindset, meritocracy & the third path, a letter to grad students (jyy)
