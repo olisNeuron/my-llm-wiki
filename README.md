@@ -21,6 +21,7 @@ llm-wiki-lab/
 | `raw/CSAPP/` | Chinese reading notes for Computer Systems: A Programmer's Perspective (12 chapters) | Markdown, named 01–12 per chapter |
 | `raw/CS61B/` | Full text of the official UC Berkeley CS61B textbook, Spring 2026 | 209 Markdown pages |
 | `raw/Algorithms4ed/` | Official English lecture slides for Algorithms, 4th ed. (Sedgewick & Wayne) | 24 PDFs |
+| `raw/MIT6006/` | MIT 6.006 Introduction to Algorithms (Spring 2020): lecture & recitation notes, problem sets, problem sessions, quizzes/final with solutions, plus 2 free textbooks | 91 PDFs |
 | `raw/zhihu-favorites/` | Zhihu favorites snapshot (2 collections, 140 unique items with summaries & links) | Markdown |
 
 Each subdirectory has its own `README.md` with source, download date, and file layout.
@@ -30,7 +31,7 @@ Each subdirectory has its own `README.md` with source, download date, and file l
 Organized by topic, with pages cross-linked using Obsidian wikilinks:
 
 - **Data Structures**: linked lists/dynamic arrays, trees & balanced trees, tries, heaps, hash tables, disjoint sets, graphs & traversals
-- **Algorithms**: asymptotic analysis, sorting, shortest paths, minimum spanning trees, complexity & P vs NP
+- **Algorithms**: asymptotic analysis, sorting, shortest paths, minimum spanning trees, complexity & P vs NP, MIT 6.006 course & materials
 - **Computer Architecture**: CSAPP core ideas, data representation, stack frames, cache locality
 - **Operating Systems**: virtual memory, linking & loading
 - **CS Learning**: self-study paths & open courses, study methods & programming practice

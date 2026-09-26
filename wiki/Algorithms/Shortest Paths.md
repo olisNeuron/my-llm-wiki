@@ -33,7 +33,7 @@ tags: [algorithms, cs61b, graph, dijkstra]
 
 - [[Graphs and Traversals]]：BFS/DFS 基础
 - [[Heaps and Priority Queues]]：Dijkstra 的优先队列
-- [[CS61B 教材]]、[[Algorithms 4ed 教材]]：来源
+- [[CS61B 教材]]、[[Algorithms 4ed 教材]]、[[MIT 6.006 算法课]]：来源
 
 ## 来源
 

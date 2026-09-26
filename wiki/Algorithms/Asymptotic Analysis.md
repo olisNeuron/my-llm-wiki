@@ -35,7 +35,7 @@ tags: [algorithms, cs61b, complexity]
 ## 关联
 
 - [[Sorting]]：复杂度分析的经典应用
-- [[CS61B 教材]]、[[Algorithms 4ed 教材]]：来源
+- [[CS61B 教材]]、[[Algorithms 4ed 教材]]、[[MIT 6.006 算法课]]：来源
 
 ## 来源
 

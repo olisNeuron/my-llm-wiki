@@ -43,7 +43,7 @@ tags: [algorithms, cs61b, sorting]
 
 - [[Heaps and Priority Queues]]：堆排序的基础
 - [[Asymptotic Analysis]]：复杂度分析工具
-- [[CS61B 教材]]、[[Algorithms 4ed 教材]]：来源
+- [[CS61B 教材]]、[[Algorithms 4ed 教材]]、[[MIT 6.006 算法课]]：来源
 
 ## 来源
 

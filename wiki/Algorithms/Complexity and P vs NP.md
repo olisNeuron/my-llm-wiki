@@ -26,7 +26,7 @@ tags: [algorithms, cs61b, complexity, np]
 
 - [[Shortest Paths]]：DAG 最长路径可解，一般图最长路径是 NP 难题
 - [[Sorting]]：比较排序下界是"难度"思想的雏形
-- [[CS61B 教材]]、[[Algorithms 4ed 教材]]：来源
+- [[CS61B 教材]]、[[Algorithms 4ed 教材]]、[[MIT 6.006 算法课]]：来源
 
 ## 来源
 

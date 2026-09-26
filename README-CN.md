@@ -21,6 +21,7 @@ llm-wiki-lab/
 | `raw/CSAPP/` | 《深入理解计算机系统》（CSAPP）12 章中文读书笔记 | Markdown，按章节 01–12 命名 |
 | `raw/CS61B/` | UC Berkeley CS61B 官方教材 Spring 2026 英文全文 | 209 页 Markdown |
 | `raw/Algorithms4ed/` | 《算法（第 4 版）》（Sedgewick & Wayne）官方英文讲义 | 24 个 PDF |
+| `raw/MIT6006/` | MIT 6.006《算法导论》（Spring 2020）讲义/复习课/习题/考试（含答案）+ 2 本免费教材 | 91 个 PDF |
 | `raw/zhihu-favorites/` | 知乎收藏快照（2 个收藏夹、140 条去重文章，含摘要与链接） | Markdown |
 
 各目录内的 `README.md` 记录来源、下载日期与文件结构。
@@ -30,7 +31,7 @@ llm-wiki-lab/
 按主题分类，页与页之间用 Obsidian 双链连接：
 
 - **Data Structures**：链表/动态数组、树与平衡树、Trie、堆、哈希表、并查集、图与遍历
-- **Algorithms**：渐近分析、排序、最短路、最小生成树、复杂度与 P vs NP
+- **Algorithms**：渐近分析、排序、最短路、最小生成树、复杂度与 P vs NP、MIT 6.006 课程与材料
 - **Computer Architecture**：CSAPP 核心思想、数据表示、栈帧、缓存局部性
 - **Operating Systems**：虚拟存储器、链接与加载
 - **CS Learning**：自学路线与公开课、学习方法与编程实践
