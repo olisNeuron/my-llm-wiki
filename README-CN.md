@@ -31,7 +31,7 @@ llm-wiki-lab/
 按主题分类，页与页之间用 Obsidian 双链连接：
 
 - **Data Structures**：链表/动态数组、树与平衡树、Trie、堆、哈希表、并查集、图与遍历
-- **Algorithms**：渐近分析、排序、最短路、最小生成树、复杂度与 P vs NP、MIT 6.006 课程与材料
+- **Algorithms**：渐近分析、排序、最短路、最小生成树、复杂度与 P vs NP、离散数学最小集、MIT 6.006 课程与材料
 - **Computer Architecture**：CSAPP 核心思想、数据表示、栈帧、处理器体系结构、性能优化、缓存局部性
 - **Operating Systems**：虚拟存储器、链接与加载、异常控制流、系统级 I/O、网络编程、并发编程
 - **CS Learning**：自学路线与公开课、学习方法与编程实践、软件工程与复杂度管理

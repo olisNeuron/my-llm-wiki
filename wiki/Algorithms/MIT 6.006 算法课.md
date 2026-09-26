@@ -41,7 +41,7 @@ tags: [source, algorithms, mit, 6006]
 - **CLRS《Introduction to Algorithms》**：6.006 官方参考书（Syllabus 列 3rd ed.；2022 年出 4th ed.）。Fall 2011 版 OCW 的 Readings 页直接按 CLRS 章节指定阅读范围。**课程不要求购买**，讲义已自洽；CLRS 更适合当字典，遇到需要深入或补证明时查阅。
 - **免费替代（本库已存）**：
   - [[raw/MIT6006/textbooks/Algorithms-JeffErickson.pdf|Jeff Erickson《Algorithms》]]：覆盖面与 6.006 高度重合（DP、图、NP），讲解偏"人话"，适合与讲义并读；
-  - [[raw/MIT6006/textbooks/Mathematics-for-Computer-Science-MIT6042.pdf|MIT 6.042J《Mathematics for Computer Science》]]：补先修（归纳、渐进记号、图论、概率）。
+  - [[raw/MIT6006/textbooks/Mathematics-for-Computer-Science-MIT6042.pdf|MIT 6.042J《Mathematics for Computer Science》]]：补先修（归纳、求和、渐近记号）。**只需读其中约 40 页**，定位见 [[离散数学最小集]]。
 - **其他常见搭配**：
   - Sedgewick & Wayne《Algorithms, 4th ed.》：代码与可视化强，本库已有官方讲义 [[Algorithms 4ed 教材]]；
   - Kleinberg & Tardos《Algorithm Design》：6.046J 主教材，学完 6.006 想进阶再读；
@@ -59,6 +59,7 @@ tags: [source, algorithms, mit, 6006]
 - [[CS61B 教材]]、[[Algorithms 4ed 教材]]：另外两套数据结构/算法来源
 - [[自学路线与公开课]]：算法课在整条自学路线中的位置
 - [[Asymptotic Analysis]]、[[Sorting]]、[[Shortest Paths]]、[[Complexity and P vs NP]]：课程核心主题
+- [[离散数学最小集]]：本课先修（6.042J）的最小工具集——Lecture 3 与 R03 的所有推导都只靠它
 
 ## 来源
 

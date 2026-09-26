@@ -60,6 +60,20 @@ MIT 6.006（Introduction to Algorithms，算法导论）Spring 2020 版全套公
 | `Algorithms-JeffErickson.pdf` | Algorithms | Jeff Erickson | 作者免费公开，CC BY-NC-SA 4.0：<https://jeffe.cs.illinois.edu/teaching/algorithms/>（因原站反爬，经 web.archive.org 镜像下载） |
 | `Mathematics-for-Computer-Science-MIT6042.pdf` | Mathematics for Computer Science | E. Lehman, T. Leighton, A. Meyer | MIT 6.042J 配套免费教材（6.006 先修）：<https://courses.csail.mit.edu/6.042/spring18/mcs.pdf> |
 
+## 配套阅读：MCS 里真正用得上的章节
+
+6.006 的官方先修是 6.042J。`textbooks/Mathematics-for-Computer-Science-MIT6042.pdf`（1048 页）里与算法课相关的只有这几节：
+
+| 工具 | 章节 | PDF 页码 |
+| --- | --- | --- |
+| 归纳法 | 5.1 普通归纳、5.2 强归纳 | 145–158 |
+| Σ 求和 / 幂和 | 14.2 Sums of Powers | 620–622 |
+| 渐近记号（正式定义） | 14.7 Asymptotic Notation | 638–647 |
+| 递推式（汉诺塔 → 归并排序） | 22.1–22.2 | 1003–1010 |
+| 分治递推（Akra-Bazzi，选读） | 22.4 | 1017–1023 |
+
+其余（数论、图论、概率、生成函数等约 1000 页）与 6.006 无关。提炼见 [[离散数学最小集]]。
+
 ## 主要教材（版权内容，仅给链接）
 
 | 书 | 说明 |

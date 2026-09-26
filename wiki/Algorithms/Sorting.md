@@ -43,6 +43,7 @@ tags: [algorithms, cs61b, sorting]
 
 - [[Heaps and Priority Queues]]：堆排序的基础
 - [[Asymptotic Analysis]]：复杂度分析工具
+- [[离散数学最小集]]：选择/插入（链式）与归并（分治）递推式的求解方法
 - [[CS61B 教材]]、[[Algorithms 4ed 教材]]、[[MIT 6.006 算法课]]：来源
 
 ## 来源

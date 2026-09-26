@@ -31,7 +31,7 @@ Each subdirectory has its own `README.md` with source, download date, and file l
 Organized by topic, with pages cross-linked using Obsidian wikilinks:
 
 - **Data Structures**: linked lists/dynamic arrays, trees & balanced trees, tries, heaps, hash tables, disjoint sets, graphs & traversals
-- **Algorithms**: asymptotic analysis, sorting, shortest paths, minimum spanning trees, complexity & P vs NP, MIT 6.006 course & materials
+- **Algorithms**: asymptotic analysis, sorting, shortest paths, minimum spanning trees, complexity & P vs NP, discrete-math toolkit, MIT 6.006 course & materials
 - **Computer Architecture**: CSAPP core ideas, data representation, stack frames, processor architecture, performance optimization, cache locality
 - **Operating Systems**: virtual memory, linking & loading, exceptional control flow, system I/O, network programming, concurrency
 - **CS Learning**: self-study paths & open courses, study methods & programming practice, software engineering & complexity management

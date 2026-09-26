@@ -35,6 +35,7 @@ tags: [algorithms, cs61b, complexity]
 ## 关联
 
 - [[Sorting]]：复杂度分析的经典应用
+- [[离散数学最小集]]：O/Θ/Ω 的正式定义，以及本页那些简化规则的"为什么"
 - [[CS61B 教材]]、[[Algorithms 4ed 教材]]、[[MIT 6.006 算法课]]：来源
 
 ## 来源
